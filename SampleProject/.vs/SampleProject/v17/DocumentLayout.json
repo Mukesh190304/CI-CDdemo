@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Jenkins\\SampleProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47DA1CFE-8D97-4D68-BD9C-E16BDF5A8C97}|TestProject1\\TestProject1.csproj|d:\\jenkins\\sampleproject\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DA1CFE-8D97-4D68-BD9C-E16BDF5A8C97}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75173658-8B68-4FC7-92BA-05A5BB5290E6}|SampleProject\\SampleProject.csproj|d:\\jenkins\\sampleproject\\sampleproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75173658-8B68-4FC7-92BA-05A5BB5290E6}|SampleProject\\SampleProject.csproj|solutionrelative:sampleproject\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Jenkins\\SampleProject\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\Jenkins\\SampleProject\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:28:22.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Jenkins\\SampleProject\\SampleProject\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "SampleProject\\Pages\\Index.cshtml",
               "ToolTip": "D:\\Jenkins\\SampleProject\\SampleProject\\Pages\\Index.cshtml",
               "RelativeToolTip": "SampleProject\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T04:31:51.733Z",
               "EditorCaption": ""
